@@ -2,14 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b93ffa-2065-42b6-a064-458c4ef32468" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/ChinaZCrawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/QichachaCrawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/MongodbUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ProvinceDic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/AbstractCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/BJQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/CQQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/FJQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/GDQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/GSQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/GXQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/GZQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/HAINQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/HBQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/HENQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/HLJQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/HUBQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/HUNQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/JLQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/JSQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/JXQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/LNQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/NMGQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/NXQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/QHQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/SAXQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/SCQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/SDQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/SHQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/SXQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/TJQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/XJQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/XZQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/YNQichachaCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/ZJQichachaCrawler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/Constants.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,64 +46,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="SDQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SDQichachaCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="64">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MongodbUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/MongodbUtils.java">
+      <file leaf-file-name="SHQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SHQichachaCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="155" column="134" selection-start-line="155" selection-start-column="128" selection-end-line="155" selection-end-column="134" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#716#731#0" expanded="true" />
-                <element signature="e#1039#1056#0" expanded="true" />
-                <element signature="e#2134#2135#0" expanded="true" />
-                <element signature="e#2161#2162#0" expanded="true" />
-                <element signature="e#2240#2241#0" expanded="true" />
-                <element signature="e#2267#2268#0" expanded="true" />
-                <element signature="e#2628#2643#0" expanded="true" />
-                <element signature="e#2951#2968#0" expanded="true" />
-                <element signature="e#3988#3996#0" expanded="true" />
-                <element signature="e#4125#4133#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChinaZCrawler.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/ChinaZCrawler.java">
+      <file leaf-file-name="SXQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SXQichachaCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#914#933#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="206">
+              <caret line="22" selection-start-line="22" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QichachaCrawler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/QichachaCrawler.java">
+      <file leaf-file-name="XZQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/XZQichachaCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProvinceDic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/ProvinceDic.java">
+      <file leaf-file-name="YNQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/YNQichachaCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="80">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZJQichachaCrawler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/ZJQichachaCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XJQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/XJQichachaCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SAXQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SAXQichachaCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SCQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SCQichachaCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TJQichachaCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawler/TJQichachaCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -123,6 +175,37 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/utils/ProvinceDic.java" />
         <option value="$PROJECT_DIR$/src/main/java/crawler/ChinaZCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/AbstractCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/BJQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/CQQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/FJQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/GSQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/GDQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/GXQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/GZQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/HAINQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/HBQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/HLJQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/HENQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/HUBQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/HUNQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/JSQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/JXQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/JLQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/LNQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/NMGQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/NXQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/QHQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/SDQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/SHQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/SXQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/SAXQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/SCQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/TJQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/XJQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/XZQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/YNQichachaCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawler/ZJQichachaCrawler.java" />
       </list>
     </option>
   </component>
@@ -278,6 +361,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="crawler" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -294,9 +380,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChinaZCrawler">
-    <configuration name="ChinaZCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crawler.ChinaZCrawler" />
+  <component name="RunManager" selected="Application.ZJQichachaCrawler">
+    <configuration name="TJQichachaCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.TJQichachaCrawler" />
       <module name="hzzh" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -306,13 +392,46 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MongodbUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.MongodbUtils" />
+    <configuration name="XJQichachaCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.XJQichachaCrawler" />
       <module name="hzzh" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="XZQichachaCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.XZQichachaCrawler" />
+      <module name="hzzh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="YNQichachaCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.YNQichachaCrawler" />
+      <module name="hzzh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ZJQichachaCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.ZJQichachaCrawler" />
+      <module name="hzzh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crawler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,13 +478,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MongodbUtils" />
-      <item itemvalue="Application.ChinaZCrawler" />
+      <item itemvalue="Application.TJQichachaCrawler" />
+      <item itemvalue="Application.XJQichachaCrawler" />
+      <item itemvalue="Application.XZQichachaCrawler" />
+      <item itemvalue="Application.YNQichachaCrawler" />
+      <item itemvalue="Application.ZJQichachaCrawler" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChinaZCrawler" />
-        <item itemvalue="Application.MongodbUtils" />
+        <item itemvalue="Application.ZJQichachaCrawler" />
+        <item itemvalue="Application.YNQichachaCrawler" />
+        <item itemvalue="Application.XZQichachaCrawler" />
+        <item itemvalue="Application.XJQichachaCrawler" />
+        <item itemvalue="Application.TJQichachaCrawler" />
       </list>
     </recent_temporary>
   </component>
@@ -380,16 +505,23 @@
       <option name="presentableId" value="Default" />
       <updated>1559295307528</updated>
       <workItem from="1559295309873" duration="1052000" />
-      <workItem from="1559524494400" duration="19316000" />
+      <workItem from="1559524494400" duration="23990000" />
     </task>
+    <task id="LOCAL-00001" summary="爬虫">
+      <created>1559555050272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559555050272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20368000" />
+    <option name="totallyTimeSpent" value="25042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -400,9 +532,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41675854" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4189636" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296582" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1990232" />
@@ -426,6 +558,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬虫" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/QichachaCrawler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/MongodbUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -513,14 +642,247 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/QichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crawler/ChinaZCrawler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#914#933#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/AbstractCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#548#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/BJQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/CQQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/GSQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/FJQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/GDQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/GXQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/GZQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/HAINQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/HBQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/HLJQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/HENQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/HUBQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="66" lean-forward="true" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/HUNQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/JSQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="16" column="66" lean-forward="true" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/JXQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/JLQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/LNQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/NMGQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/NXQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/QHQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SDQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SAXQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SCQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SHQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/XJQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/TJQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/SXQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/XZQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/YNQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawler/ZJQichachaCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
         </state>
       </provider>
     </entry>
