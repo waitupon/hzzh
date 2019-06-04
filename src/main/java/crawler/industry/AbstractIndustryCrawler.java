@@ -34,9 +34,7 @@ public abstract class AbstractIndustryCrawler {
             Document clearfixliDoc = Jsoup.parse(clearfixli.toString());
             Elements name = clearfixliDoc.select(".ma_h1");  //选择器的形式
 
-            if(name.text().length()<=4){
-                continue;
-            }
+
             fis.write((name.text() +"\r\n").getBytes());
             System.out.println(name.text());  //分类
         }
